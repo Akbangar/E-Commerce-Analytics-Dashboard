@@ -57,4 +57,3 @@ Due to GitHub file size limitations, project files are available on Google Drive
 <img width="1788" height="707" alt="Ecommerce_excel_daash" src="https://github.com/user-attachments/assets/a5032895-b6d4-430c-958c-358a3949592b" />
 ---
 
-## 📁 Project Structure
